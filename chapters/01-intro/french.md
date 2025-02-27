@@ -16,8 +16,8 @@ Les JDR sont connus pour avoir longtemps été "pour geeks", mais ont depuis gag
 Les parties durent souvent très longtemps, impliquent beaucoup de calculs et les règles peuvent s'étaler sur plusieurs livres bien lourds.
 Avec le récent épanouissement du JDR, des systèmes alternatifs plus simples ont émergé, souvent présentés comme accessibles aux enfants.
 
-Ce système de jeu cherche à proposer des règles d'une épatante simplicité ç la base, pouvant devenir arbitrairement compliquées pour ceux qui accrochent. Les différents niveaux de complexité sont totalement compatibles entre eux, de manière à permettre au MJ de passer d'un niveau à l'autre avec fluidité.
+Ce système de jeu cherche à proposer des règles d'une épatante simplicité à la base, pouvant devenir arbitrairement compliquées pour ceux qui accrochent. Les différents niveaux de complexité sont totalement compatibles entre eux, de manière à permettre au MJ de passer d'un niveau à l'autre avec fluidité.
 
 Les chapitres suivants décrivent les règles et les conseils ordonnés par complexité croissante.
 
-## Suivant: [règles de base](/chapters/02-core/french.md)
+## Suivant : [règles de base](/chapters/02-core/french.md)
