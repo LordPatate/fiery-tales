@@ -6,7 +6,14 @@ When players' actions meet resistance, competition or challenge in any form, wet
 
 Depending on the desired difficulty and length of the challenge, the GM can design it in one of the following ways.
 
-### Easy and obvious
+| Difficulty              | Complexity  | Appropriate kind of challenge |
+| ----------------------- | ----------- | ----------------------------- |
+| Easy                    | Obvious     | Tutorial                      |
+| Easy                    | Interesting | Puzzle                        |
+| Hard                    | Simple      | Even match                    |
+| From hard to impossible | Immense     | Great peril                   |
+
+### Tutorial
 
 Perfect for an introduction to the game system, it also allows players to get acquainted with their characters.
 

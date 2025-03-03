@@ -6,9 +6,16 @@ Lorsque les actions des joueurs rencontrent une résistance, de la compétition 
 
 Selon la difficulté et la longueur désirées de l'épreuve, le MJ peut le concevoir selon l'une des manières suivantes.
 
-### Facile et évidente
+| Difficulté                    | Complexité  | Type d'épreuve approprié |
+| ----------------------------- | ----------- | ------------------------ |
+| Facile                        | Évident     | Tutoriel                 |
+| Facile                        | Intéressant | Problème                 |
+| Difficile                     | Simple      | Lutte équilibrée         |
+| Entre difficile et impossible | Immense     | Grand péril              |
 
-Parfaite pour une introduction au système de jeu, elle permet aussi aux joueurs de prendre en main leurs personnages.
+### Tutoriel
+
+Parfait pour une introduction au système de jeu, il permet aussi aux joueurs de prendre en main leurs personnages.
 
 La résolution de cette épreuve devrait exiger de chaque PC de faire ce qu'ils savent faire, à une ou deux reprises.
 
