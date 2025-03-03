@@ -36,4 +36,6 @@ Pour prendre en compte des circonstances particulières, des malus ou des bonus 
 
 Les conséquences de résultats extrêmes (typiquement appelés "succès ou échecs critiques") devraient être décrits avec emphase: soit une grande réussite soit grand échec, toujours avec des conséquences inattendues, bonnes ou mauvaises.
 
+C'est souvent plus amusant pour les joueurs si le MJ annonce la difficulté cible avant que le dé soit lancé.
+
 ## Suivant : [concevoir une aventure](/chapters/03-adventure/french.md)
