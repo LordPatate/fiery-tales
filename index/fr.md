@@ -2,10 +2,15 @@
 
 Un système de jeu à haute flexibilité pour jeu de rôle sur table.
 
-## [Chapitres](/chapters/)
+## Chapitres
 
-Présentation du système de jeu.
-Si vous ne savez pas par où commencer, lisez [l'introduction](/chapters/01-intro/french.md).
+Présentation complète du système de jeu.
+Vous devriez commencer par ici.
+
+1. [Introduction](/chapters/01-intro/french.md)
+2. [Règles de base](/chapters/02-core/french.md)
+3. [Concevoir une aventure](/chapters/03-adventure/french.md)
+4. [Personnages](/chapters/04-characters/french.md)
 
 ## [Référence rapide](/reference/french.md)
 

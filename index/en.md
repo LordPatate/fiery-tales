@@ -4,8 +4,13 @@ A highly flexible game system for table-top role playing.
 
 ## [Chapters](/chapters/)
 
-This game system, explained.
-If you don't know where to start: read [the introduction](/chapters/01-intro/english.md).
+This game system, explained exhaustively.
+You should start from here.
+
+1. [Introduction](/chapters/01-intro/english.md)
+2. [Core rules](/chapters/02-core/english.md)
+3. [Designing an aventure](/chapters/03-adventure/english.md)
+4. [Characters](/chapters/04-characters/english.md)
 
 ## [Quick reference](/reference/english.md)
 
