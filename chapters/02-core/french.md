@@ -17,22 +17,36 @@ Selon le contexte, vous pourriez en ajouter une dernière :
 
 ## Jets de dés et difficulté
 
-Chaque fois les PJs entreprennent une action pour laquelle l'échec serait intéressant (pour augmenter la tension, forcer une approche plus créative, conclure l'histoire de manière dramatique...), un jet de dé peut être exigé par le MJ.
+Chaque fois les PJs entreprennent une action pour laquelle l'échec ou la réussite seraient tous les deux intéressants (pour augmenter la tension, forcer une approche plus créative, conclure l'histoire de manière dramatique...), un jet de dé peut être exigé par le MJ.
 
-Le MJ doit d'abord décidé d'une difficulté cible : le résultat minimum / maximum nécessaire pour réussir le jet.
+Le MJ doit d'abord décidé d'une difficulté cible : le résultat minimum nécessaire pour réussir le jet.
 
 La table ci-dessous liste les difficultés cibles suggérées selon le type de tâche à accomplir.
-Les difficultés sont exprimées pour des dés à 20 faces (d20). Si vous n'avez que des dés à 6 faces (d6), divisez le nombre par 3.
 
-| Type de tâche                    | Difficulté cible suggérée (d20) |
-| -------------------------------- | ------------------------------- |
-| dans la zone de confort du PJ    | 6 ou plus                       |
-| inhabituel pour le PJ            | 9 ou plus                       |
-| difficile pour le PJ             | 12 ou plus                      |
-| le PJ doit surmonter un handicap | 15 ou plus                      |
+| Type de tâche                 | Difficulté cible suggérée (d20) | Difficulté cible suggérée (d6) |
+| ----------------------------- | ------------------------------- | ------------------------------ |
+| dans la zone de confort du PJ | 8 ou plus                       | 3 ou plus                      |
+| inhabituel pour le PJ         | 11 ou plus                      | 4 ou plus                      |
+| difficile pour le PJ          | 14 ou plus                      | 5 ou plus                      |
+
+![Table comparant les valeurs des faces de d20 et d6](../../images/dice_faces.svg)
 
 
 Pour prendre en compte des circonstances particulières, des malus ou des bonus peuvent être appliqués.
+
+> _Exemple :_
+>
+> Le personnage d'Alice, Adora, est une combattante du crime entraînée. Elle doit sauter d'un toit à un autre.
+> Les toits sont à 2 mètres de distance, c'est une tâche facile pour elle.
+> Le MJ demande à Alice de jeter un d20 avec une difficulté cible de 8.
+> Elle obtient 11, donc Adora réussi.
+>
+> C'est maintenant le tour de Bob. Contrairement à Alice, il n'a pas de d20 donc il utilise un d6 à la place pour ses jets.
+> Le personnage de Bob, Bernard, n'est pas aussi athlétique ; ce saut est terrifiant pour lui.
+> Pour réussir, il va devoir obtenir un 5 ou plus sur son d6.
+> Voyant son ami hésiter, Adora l'encourage, ce qui le rend plus confiant. Le MJ décide de traduire cet effet par une réduction de la difficulté cible de son jet, qui sera donc réussi à 4 ou plus.
+>
+> Bob obtient un 3, donc il rate de peu. Le MJ interprète ceci en faisant s'accrocher Bernard au bord du toit, requérant l'assistance d'Adora.
 
 Les conséquences de résultats extrêmes (typiquement appelés "succès ou échecs critiques") devraient être décrits avec emphase: soit une grande réussite soit grand échec, toujours avec des conséquences inattendues, bonnes ou mauvaises.
 

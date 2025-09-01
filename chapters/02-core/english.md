@@ -17,21 +17,35 @@ Depending on the setting, you could add this last one:
 
 ## Dice rolls and difficulty
 
-Whenever PCs attempt an action for which failure could be interesting (to build up tension, force a more creative approach, conclude the story dramatically...), a dice roll can be requested by the GM.
+Whenever PCs attempt an action for which both failure and success could be interesting (to build up tension, force a more creative approach, conclude the story dramatically...), a dice roll can be requested by the GM.
 
-The GM must first decide on a target difficulty: the minimum / maximum result required to succeed the dice roll.
+The GM must first decide on a target difficulty: the minimum result required to succeed the dice roll.
 
 The table below lists suggested target difficulty depending on a kind of task.
-Target difficulties are expressed for 20-faced dices (d20). If you only have 6-sided dices (d6), divide the number by 3.
 
-| Kind of task                        | Suggested target difficulty (d20) |
-| ----------------------------------- | --------------------------------- |
-| within PC's comfort zone            | 6 or higher                       |
-| unusual for the PC                  | 9 or higher                       |
-| hard for the PC                     | 12 or higher                      |
-| the PC needs to overcome a weakness | 15 or higher                      |
+| Kind of task             | Suggested target difficulty (d20) | Suggested target difficulty (d6) |
+| ------------------------ | --------------------------------- | -------------------------------- |
+| within PC's comfort zone | 8 or higher                       | 3 or higher                      |
+| unusual for the PC       | 11 or higher                      | 4 or higher                      |
+| hard for the PC          | 14 or higher                      | 5 or higher                      |
+
+![Table comparing dice face value for d20 and d6](../../images/dice_faces.svg)
 
 To account for special circumstances, bonuses or maluses could be applied.
+
+> _Example:_
+> 
+> Alice's character, Adora, is a skilled crime fighter. She needs to jump from one rooftop to another.
+> The roofs are 2 meters away from one another, it's an easy task for her.
+> The GM asks Alice to roll a d20 with a target difficulty of 8.
+> She gets 11, so Adora succeeds.
+> 
+> Now it's Bob's turn. Unlike Alice, he does not have a d20 so he uses a d6 instead for his rolls.
+> Bob's character, Bernard, is not as athletic; this jump is very scary for him.
+> To make it, he would have to roll a 5 or higher on his d6.
+> Seeing her friend hesitating, Adora encourages him and it makes Bernard feel more confident. The GM decides to translate this effect as a reduction on his roll's target difficulty, making it a 4 or higher.
+>
+> Bob rolls a 3, so he barely misses. The GM interprets this as Bernard hanging on the edge of the roof and needing rescue from Adora.
 
 The outcome of extreme results (typically called "critical successes or failures") should be described with emphasis: either a great success or a great failure, always with unexpected good or bad consequences.
 
