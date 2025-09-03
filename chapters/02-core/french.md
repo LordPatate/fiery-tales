@@ -48,7 +48,7 @@ Pour prendre en compte des circonstances particulières, des malus ou des bonus 
 >
 > Bob obtient un 3, donc il rate de peu. Le MJ interprète ceci en faisant s'accrocher Bernard au bord du toit, requérant l'assistance d'Adora.
 
-Les conséquences de résultats extrêmes (typiquement appelés "succès ou échecs critiques") devraient être décrits avec emphase: soit une grande réussite soit grand échec, toujours avec des conséquences inattendues, bonnes ou mauvaises.
+Les conséquences de résultats extrêmes (typiquement appelés "succès ou échecs critiques") devraient être décrits avec emphase : soit une grande réussite soit grand échec, toujours avec des conséquences inattendues, bonnes ou mauvaises.
 
 C'est souvent plus amusant pour les joueurs si le MJ annonce la difficulté cible avant que le dé soit lancé.
 
