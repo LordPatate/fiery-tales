@@ -11,9 +11,9 @@ It helps answering the question: "who would win in a fight?"
 A fight will be balanced if the opposing forces are of equal cumulated levels.
 Remember, though, that fights are rarely supposed to be even.
 
-A few rules of thumbs can be applied to levels:
-- The level of a character can indicate the number of hit that is needed to put that character down.
-- The level can represent the maximum number of damage this character can deal in one blow.
+A few rules of thumbs:
+- The level can represent the maximum number of hit needed to put that character down.
+- The level can represent the maximum amount of damage this character can deal in one blow.
 - When attacking a character of lower level, the target difficulty of the attack roll is lower; and vice-versa.
 
 | Character or creature archetype   | Suggested level |

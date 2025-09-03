@@ -11,9 +11,9 @@ Il aide à répondre à la question : "qui sortirait vainqueur d'un combat?"
 Un combat sera équilibré si les forces en oppositions sont de niveaux cumulés égaux.
 Gardez cependant à l'esprit que les combats sont rarement supposés être équitables.
 
-Quelques règles générales applicables aux niveaux :
-- Le niveau d'un personnage peut indiquer le nombre de coups nécessaires pour l'envoyer au tapis.
-- Le niveau peut représenter la quantité maximum de dégâts que ce personnage peut infliger en un coup.
+Quelques règles générales:
+- Le niveau d'un personnage peut indiquer le nombre maximal de coups nécessaires pour l'envoyer au tapis.
+- Le niveau peut représenter la quantité maximale de dégâts que ce personnage peut infliger en un coup.
 - La difficulté cible est réduite pour attaquer un personnage de niveau inférieur ; et inversement.
 
 | Archétype de personnage ou créature | Niveau suggéré |
