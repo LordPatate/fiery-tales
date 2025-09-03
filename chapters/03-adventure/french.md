@@ -124,4 +124,4 @@ La chose la plus raisonnable à faire, cependant, serait de fuir.
 
 *Exemples : n'import quelle catastrophe naturelle, un dragon, une armée...*
 
-## Suivant : [personnages](/chapters/04-characters/french.md)
+## Suivant : [Création de personnage avancée](/chapters/04-characters/french.md)

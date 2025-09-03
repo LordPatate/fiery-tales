@@ -124,4 +124,4 @@ The most reasonable thing to do, however, would be to flee.
 
 *Examples: any natural disaster, a dragon, an army...*
 
-## Next: [characters](/chapters/04-characters/english.md)
+## Next: [Advanced character creation](/chapters/04-characters/english.md)
