@@ -13,7 +13,3 @@ Vous devriez commencer par ici.
 4. [Personnages](/chapters/04-characters/french.md) 🚧
 5. [Mécaniques de jeu additionnelles](/chapters/05-mechanics/french.md)
 6. [Combat avancé](/chapters/06-combat/french.md)
-
-## [Référence rapide](/reference/french.md) 🚧
-
-Utile pour vérifier un point de détail.

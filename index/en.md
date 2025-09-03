@@ -13,7 +13,3 @@ You should start from here.
 4. [Characters](/chapters/04-characters/english.md) 🚧
 5. [Additional gameplay mechanics](/chapters/05-mechanics/english.md)
 6. [Advanced combat](/chapters/06-combat/english.md)
-
-## [Quick reference](/reference/english.md) 🚧
-
-Faster if you just need to look up some detail.
