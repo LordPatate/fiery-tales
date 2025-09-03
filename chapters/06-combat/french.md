@@ -21,27 +21,26 @@ Quelques règles générales:
 | Civil inoffensif (ex. marchant)     | 1              |
 | Civil costaud (ex. bûcheron)        | 2              |
 | Combattant (ex. soldat)             | 3              |
-| Chevalier                           | 4              |
-| Dragon                              | 10-20          |
+| Élite (ex. chevalier)               | 4              |
+| Boss (ex. dragon)                   | 10-20          |
 
 ## Statistiques d'armes
 
 ### Maîtrise
 
-La même arme peut être plus ou moins dangereuse selon qui la manie.
 Certaines armes peuvent même nécessiter une formation spécifique pour être utilisée.
 
-Facilité de maniement suggérée et avantages à la maîtrise :
+Suggestions :
 
-| Arme            | Utilisateur non entraîné                     | Maîtrisée                           |
-| --------------- | -------------------------------------------- | ----------------------------------- |
-| Arbalète        | Facile, mais doit être rechargée chaque tour | Pas de bonus                        |
-| Arc             | Difficile                                    | Acrobaties et créativité            |
-| Dague           | Facile mais courte portée                    | Facilement dissimulée, coups précis |
-| Épée            | Accessible                                   | Escrime avancée                     |
-| Pistolet        | Facile mais courte portée                    | Rapide à dégainer et à tirer        |
-| Fusil de sniper | Difficile                                    | Longue portée et gros dégâts        |
-| Sabre laser     | Périlleux à manier                           | Bloque les tirs reçus               |
+| Arme            | Utilisateur non entraîné                          | Maître                       |
+| --------------- | ------------------------------------------------- | ---------------------------- |
+| Dague           | Facile à manier ; courte portée                   | Discrète, précise            |
+| Épée            | Accessible                                        | Escrime avancée              |
+| Arbalète        | Facile à manier ; doit être rechargée chaque tour | Pas de bonus                 |
+| Arc             | Difficile à manier                                | Acrobaties et créativité     |
+| Pistolet        | Facile à manier                                   | Rapide à dégainer et à tirer |
+| Fusil de sniper | Difficile à manier                                | Longue portée et gros dégâts |
+| Sabre laser     | Risque élevé de se blesser soi-même               | Bloque les tirs reçus        |
 
 ### Dégâts
 
@@ -54,8 +53,11 @@ Pour chaque arme, on peut définir un intervalle de dégât auquel on peut super
 >
 > Jiora manie une hache lourde infligeant 1-5 dégâts quand on sait s'en servir.
 > Il est bien entraîné, donc il réussit ses attaques avec un 8 ou plus sur son d20.
-> Si son attaque touche de justesse (8), il inflige 1 dégâts.
-> Un geste plus ajusté (entre 9 et 12) en inflige 2.
-> Les bons jours (entre 13 et 16), il en inflige habituellement 3.
-> Quand il tape vraiment bien et fort (entre 17 et 19), il en inflige 4.
-> Et si en plus il tape là où ça fait mal (20), il peut faire jusqu'à 5 points de dégâts d'un coup.
+> - Si son attaque touche de justesse (8), il inflige 1 dégâts.
+> - Un geste plus ajusté (entre 9 et 12) en inflige 2.
+> - Les bons jours (entre 13 et 16), il en inflige habituellement 3.
+> - Quand il tape vraiment bien et fort (entre 17 et 19), il en inflige 4.
+> - Et si en plus il tape là où ça fait mal (20), il peut faire jusqu'à 5 points de dégâts d'un coup.
+
+> 💡 La même arme peut être plus ou moins dangereuse selon qui la manie.
+> Un maître aura peut-être un plus haut maximum sur son intervalle de dégât.
