@@ -29,8 +29,8 @@ La table ci-dessous liste les difficultés cibles suggérées selon le type de t
 | inhabituel pour le PJ         | 11 ou plus                      | 4 ou plus                      |
 | difficile pour le PJ          | 14 ou plus                      | 5 ou plus                      |
 
-![Table comparant les valeurs des faces de d20 et d6](../../images/dice_faces.svg)
-
+La table suivante décrit comment traduire les faces d'un d20 aux faces d'un d6.
+![Les faces 1, 2 et 3 d'un d20 correspondent à la face 1 d'un d6. 4, 5, 6 et 7 correspondent à 2. De 8 à 10, c'est 3 ; de 14 à 17, c'est 5 et de 18 à 20, c'est 6.](../../images/dice_faces.svg)
 
 Pour prendre en compte des circonstances particulières, des malus ou des bonus peuvent être appliqués.
 

@@ -29,7 +29,8 @@ The table below lists suggested target difficulty depending on a kind of task.
 | unusual for the PC       | 11 or higher                      | 4 or higher                      |
 | hard for the PC          | 14 or higher                      | 5 or higher                      |
 
-![Table comparing dice face value for d20 and d6](../../images/dice_faces.svg)
+The following table describe how to translate d20 faces to d6 faces. 
+![Faces 1, 2 and 3 on a d20 correspond to face 1 on a d6. 4, 5, 6 and 7 correspond to 2. 8 to 10 is 3; 14 to 17 is 5 and 18 to 20 is 6.](../../images/dice_faces.svg)
 
 To account for special circumstances, bonuses or maluses could be applied.
 
