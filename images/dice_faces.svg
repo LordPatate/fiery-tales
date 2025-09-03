@@ -3,16 +3,26 @@
     font-size="larger"
     height="10em" width="62ch"
 >
+    <style>
+        :root {
+            color-scheme: light dark;
+        }
+        rect {
+            fill: none;
+            stroke: light-dark(black, white);
+        }
+        text {
+            fill: light-dark(black, white);
+        }
+    </style>
     <!-- |  1 |  2 | 10 | 20 | -->
     <!-- 60 = (5 + 1)x + 6 -->
     <defs>
         <rect id="small-box"
-            fill="none" stroke="black"
             y="1em"
             width="3ch" height="3em"
         />
         <rect id="large-box"
-            fill="none" stroke="black"
             y="5em"
             width="10ch" height="3em"
         />
