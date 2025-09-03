@@ -43,7 +43,7 @@ Suggested wielding difficulty and mastery perks:
 | Sniper rifle | Hard to use                                   | Longer range and high damage |
 | Light saber  | High risk of self-injury                      | Blocks incoming fire         |
 
-### Damage
+### Damage range
 
 On a successful attack roll, the damage can be derived from the "quality" of the attack roll.
 The better the success, the higher the damage.
@@ -62,3 +62,24 @@ Each weapon could have a range of damage that can be mapped to the range of favo
 
 > 💡 The same weapon can be more or less dangerous depending on who wields it.
 > A master wielder might have a higher maximum on his damage range.
+
+## Armor
+
+A think layer of leather absorbs a portion of the kinetic energy of an incoming blade or arrow.
+Another way to look at it: you have to push harder if you want to get through it or aim better find a weak spot.
+
+Armor reduces incoming damage or makes you harder to hit.
+You can chose either.
+It does not need to be more complicated.
+
+> 💡 With the damage range rule described above, making you harder to hit is equivalent to reducing the damage received.
+> This way, the armor mechanic is compatible whether you are using the damage range rule or not.
+> Is it not beautiful?
+
+Suggestion for a medieval setting:
+
+| Armor         | Target difficulty increase / Damage reduction |
+| ------------- | --------------------------------------------- |
+| Light leather | 1                                             |
+| Light metal   | 2                                             |
+| Heavy metal   | 3                                             |

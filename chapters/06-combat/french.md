@@ -42,7 +42,7 @@ Suggestions :
 | Fusil de sniper | Difficile à manier                                | Longue portée et gros dégâts |
 | Sabre laser     | Risque élevé de se blesser soi-même               | Bloque les tirs reçus        |
 
-### Dégâts
+### Intervalle de dégâts
 
 Lors d'un jet d'attaque réussi, les dégâts peuvent être dérivés de la "qualité" du jet.
 Plus le jet est réussi, plus les dégâts sont élevés.
@@ -61,3 +61,24 @@ Pour chaque arme, on peut définir un intervalle de dégât auquel on peut super
 
 > 💡 La même arme peut être plus ou moins dangereuse selon qui la manie.
 > Un maître aura peut-être un plus haut maximum sur son intervalle de dégât.
+
+## Armure
+
+Une épaisse couche de cuir absorbe une partie de l'énergie cinétique d'une lame ou d'une flèche pénétrante.
+Une autre façon de voir les choses : il faut pousser plus fort pour la traverser ou mieux viser pour trouver un point faible.
+
+L'armure réduit les dégâts reçus ou vous rend plus dur à toucher.
+Vous pouvez choisir l'un ou l'autre.
+Ça n'a pas besoin d'être plus compliqué.
+
+> 💡 Avec la règle d'intervalle de dégât décrit plus haut, vous rendre plus dur à toucher est équivalent à réduire les dégâts reçus.
+> De cette manière, la mécanique de l'armure est compatible que vous utilisiez la règle d'intervalle de dégâts ou non.
+> N'est-ce pas magnifique ?
+
+Suggestion pour une ambiance médiévale :
+
+| Armure      | Augmentation de la difficulté cible / Réduction de dégâts |
+| ----------- | --------------------------------------------------------- |
+| Cuir léger  | 1                                                         |
+| Métal léger | 2                                                         |
+| Métal lourd | 3                                                         |
