@@ -52,4 +52,18 @@ The outcome of extreme results (typically called "critical successes or failures
 
 It's generally funnier for the players if the GM announces the target difficulty before the dice is rolled.
 
+## Damage and death
+
+"Hit points" or "health points" do not help building a story or describing a scene.
+Taking damage should have an impact on the story or the scene.
+Fiery tales encourages representing the consequence of damage as injuries, impairments or goofy knock-backs (depending on the tone).
+
+The GM should be careful around PC death and avoid letting lethal situations be an option.
+There are many less permanent ways to deal with characters that got a little too careless: arrested, stunned, unconscious...
+More permanent, but less lethal, is the option of injuries.
+Physical or mental trauma is an opportunity for character evolution, which is better for the story than character death.
+
+Now, in some settings or with some audiences, death is acknowledge as an expected consequence for failure.
+In this case, the usual way to deal with a PC death is to make its player create a new one and having it join the party soon after.
+
 ## Next: [designing an adventure](/chapters/03-adventure/english.md)

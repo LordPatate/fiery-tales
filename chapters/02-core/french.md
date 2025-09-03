@@ -52,4 +52,18 @@ Les conséquences de résultats extrêmes (typiquement appelés "succès ou éch
 
 C'est souvent plus amusant pour les joueurs si le MJ annonce la difficulté cible avant que le dé soit lancé.
 
+## Dégâts et mort
+
+Les "points de vies" n'aident pas à construire une histoire ou décrire une scène.
+Prendre des dégâts devrait avoir un impact sur l'histoire ou la scène.
+Les Contes de Fer encouragent le MJ à utiliser blessures, infirmités ou vols planés comiques (selon la tonalité) pour représenter les conséquences des dégâts.
+
+Le MJ devrait être prudent avec la mort de PJ et éviter de laisser les situations létales être une option.
+Il existe de nombreuses manières moins permanentes de traiter les personnages un peu trop insouciants : arrestation, étourdissement, inconscience...
+Une option plus permanente, mais moins létale, est la blessure.
+Le traumatisme physique ou mental est une opportunité d'évolution pour le personnage, ce qui est meilleur pour l'histoire que la mort de celui-ci.
+
+Maintenant, dans certaines ambiances ou avec certains publics, la mort est reconnue comme une conséquence normale de l'échec.
+Dans ce cas, la manière habituelle de résoudre la mort d'un PJ est de faire créer un nouveau à son joueur et de le faire rejoindre le groupe peu après.
+
 ## Suivant : [concevoir une aventure](/chapters/03-adventure/french.md)
