@@ -13,6 +13,7 @@ Gardez cependant à l'esprit que les combats sont rarement supposés être équi
 
 Quelques règles générales applicables aux niveaux :
 - Le niveau d'un personnage peut indiquer le nombre de coups nécessaires pour l'envoyer au tapis.
+- Le niveau peut représenter la quantité maximum de dégâts que ce personnage peut infliger en un coup.
 - La difficulté cible est réduite pour attaquer un personnage de niveau inférieur ; et inversement.
 
 | Archétype de personnage ou créature | Niveau suggéré |
