@@ -1,6 +1,6 @@
 # Combat avancé
 
-Pour ceux qui aiment quand c'est compliqué. Ces outils servent à enrichir ou faciliter la conception de combats.
+Pour ceux qui aiment quand c'est compliqué. Ces outils servent à enrichir ou faciliter la conception de combats pour le MJ.
 
 ## Niveaux
 

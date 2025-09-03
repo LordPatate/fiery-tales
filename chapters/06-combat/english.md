@@ -1,6 +1,6 @@
 # Advanced combat
 
-For those who like it complicated. These tools are meant to enrich or ease combat design.
+For those who like it complicated. These tools are meant to enrich or ease combat design for the GM.
 
 ## Levels
 

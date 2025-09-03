@@ -67,3 +67,4 @@ Now, in some settings or with some audiences, death is acknowledge as an expecte
 In this case, the usual way to deal with a PC death is to make its player create a new one and having it join the party soon after.
 
 ## Next: [designing an adventure](/chapters/03-adventure/english.md)
+Players can skip ahead to [advanced character creation](/chapters/04-characters/english.md).

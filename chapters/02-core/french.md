@@ -67,3 +67,4 @@ Maintenant, dans certaines ambiances ou avec certains publics, la mort est recon
 Dans ce cas, la manière habituelle de résoudre la mort d'un PJ est de faire créer un nouveau à son joueur et de le faire rejoindre le groupe peu après.
 
 ## Suivant : [concevoir une aventure](/chapters/03-adventure/french.md)
+Les joueurs peuvent passer directement à [création de personnage avancée](/chapters/04-characters/french.md).
