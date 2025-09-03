@@ -20,4 +20,15 @@ This game system aims to offer a ruleset that is shockingly simple - and faster 
 
 The following chapters describe the rules and guidelines ordered by increasing complexity.
 
+## General philosophy
+
+These rules and systems exist to serve the story and its storytellers, both the GM and the players.
+They make a skeleton that needs to be decorated with role-play and story.
+
+The system aims to find balance between the following qualities:
+- **simple**: fewer rules are easier to teach and remember
+- **comprehensive**: players and GM need to know how to handle any situation, no matter how far from track improvisations led the party
+- **fun**: avoid frustration, boredom; favor epic and exciting moments
+- **predictable**: in order for players to feel in control, they need to know what they can reasonably do without constantly asking the GM "can I do that?"
+
 ## Next: [core rules](/chapters/02-core/english.md)

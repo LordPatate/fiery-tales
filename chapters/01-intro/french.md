@@ -20,4 +20,15 @@ Ce système de jeu cherche à proposer des règles d'une épatante simplicité �
 
 Les chapitres suivants décrivent les règles et les conseils ordonnés par complexité croissante.
 
+## Philosophie générale
+
+Ces règles et systèmes sont au service de l'histoire et de ses narrateurs, autant le MJ que les joueurs.
+Ils constituent un squelette à décorer par du jeu de rôle et du narratif.
+
+Le système cherche un point d'équilibre entre les qualités suivantes:
+- **simple**: moins il y a de règles, plus elles sont faciles à enseigner et à mémoriser
+- **exhaustif**: les joueurs et le MJ doivent savoir comment aborder toute situation, même lorsque rien ne s'est passé comme prévu
+- **amusant**: éviter la frustration, l'ennui ; favoriser les moments épiques et jouissifs
+-  **prévisible**: pour donner aux joueurs une sensation de maîtrise, ils doivent savoir ce qu'ils peuvent vraisemblablement faire sans avoir à demander constamment au MJ "est-ce que je peux faire ça ?" 
+
 ## Suivant : [règles de base](/chapters/02-core/french.md)
