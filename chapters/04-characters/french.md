@@ -15,7 +15,7 @@ Les qualités et les défauts sont décrits dans les paragraphes suivants.
 
 ## Qualités et talents
 
-Ce que pour quoi vous êtes doués, ce pour quoi les autres comptent sur vous.
+Ce pour quoi vous êtes doués, ce pour quoi les autres comptent sur vous.
 
 Vous devriez commencer avec une qualité ou talent principal.
 Lorsque vous essayez d'effectuer une action liée à cette qualité, vous serez dans votre zone de confort, ce qui signifie que la difficulté cible sera basse.

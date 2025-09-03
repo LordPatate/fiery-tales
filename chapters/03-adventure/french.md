@@ -48,7 +48,7 @@ En jargon de jeux vidéos, on pourrait expliquer cette méthode comme "concevoir
 Essayez de répondre à ce genre de questions :
 - Quelle genre d'histoire voulez-vous raconter ?
 - Quels tropes voulez-vous utiliser ?
-- Quelles surprises les joueurs vont-ils découvrir ?
+- Quelles mystères les joueurs devront-ils dévoiler ?
 
 Une fois que vous avez un bon scénario, construire des épreuves et personnages deviendra peut-être plus facile. Vous pourriez aussi compter sur des talents d'improvisation et le comportement des joueurs pour inventer de nouveaux événements à partir des conséquences de leurs choix.
 
@@ -71,12 +71,12 @@ Lorsque les actions des joueurs rencontrent une résistance, de la compétition 
 
 Selon la difficulté et la longueur désirées de l'épreuve, le MJ peut le concevoir selon l'une des manières suivantes.
 
-| Difficulté                    | Complexité  | Type d'épreuve approprié |
-| ----------------------------- | ----------- | ------------------------ |
-| Facile                        | Évident     | Tutoriel                 |
-| Facile                        | Intéressant | Problème                 |
-| Difficile                     | Simple      | Lutte équilibrée         |
-| Entre difficile et impossible | Immense     | Grand péril              |
+| Risques d'échec | Complexité  | Type d'épreuve approprié |
+| --------------- | ----------- | ------------------------ |
+| Inexistant      | Évident     | Tutoriel                 |
+| Faible          | Intéressant | Problème                 |
+| Réel            | Simple      | Lutte équilibrée         |
+| Probable        | Immense     | Grand péril              |
 
 ### Tutoriel
 
@@ -118,7 +118,7 @@ Dans tous les cas, davantage de dés vont être lancés.
 
 On ne peut pas combattre ou se montrer plus intelligent qu'un tsunami.
 
-Si les joueurs choisissent d'affronter cette épreuve, cela leur demandera à la fois une solution créative, car il n'existe pas d'approche évidente; et des réussites aux jets de dés durement gagnées, car aucun coup facile ne suffira.
+Si les joueurs choisissent d'affronter cette épreuve, cela leur demandera à la fois une solution créative, car il n'existe pas d'approche évidente ; et des réussites aux jets de dés durement gagnées, car aucun coup facile ne suffira.
 
 La chose la plus raisonnable à faire, cependant, serait de fuir.
 

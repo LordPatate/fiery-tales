@@ -48,7 +48,7 @@ In video game slang, you could explain this method as "designing the story first
 Try to answer these kinds of questions:
 - What kind of story do you want to tell?
 - Which tropes do you want to use?
-- Which surprises will the players discover?
+- Which mysteries must the players uncover?
 
 Once you have a good scenario, building the challenges and characters might get easier. You could also rely on improvisation skills and the behavior of your players to come up with new events from the consequence of their choices.
 
@@ -71,12 +71,12 @@ When players' actions meet resistance, competition or challenge in any form, wet
 
 Depending on the desired difficulty and length of the challenge, the GM can design it in one of the following ways.
 
-| Difficulty              | Complexity  | Appropriate kind of challenge |
-| ----------------------- | ----------- | ----------------------------- |
-| Easy                    | Obvious     | Tutorial                      |
-| Easy                    | Interesting | Puzzle                        |
-| Hard                    | Simple      | Even match                    |
-| From hard to impossible | Immense     | Great peril                   |
+| Risk of failure | Complexity  | Appropriate kind of challenge |
+| --------------- | ----------- | ----------------------------- |
+| Inexistent      | Obvious     | Tutorial                      |
+| Small           | Interesting | Puzzle                        |
+| Real            | Simple      | Even match                    |
+| Likely          | Immense     | Great peril                   |
 
 ### Tutorial
 
