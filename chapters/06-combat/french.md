@@ -29,7 +29,9 @@ Quelques règles générales:
 ### Maîtrise
 
 La même arme peut être plus ou moins dangereuse selon qui la manie.
-Certaines armes peuvent même nécessiter une formation spécifique pour être utilisée (étiquetées "difficile" dans la deuxième colonne).
+Certaines armes peuvent même nécessiter une formation spécifique pour être utilisée.
+
+Facilité de maniement suggérée et avantages à la maîtrise :
 
 | Arme            | Utilisateur non entraîné                     | Maîtrisée                           |
 | --------------- | -------------------------------------------- | ----------------------------------- |
@@ -50,8 +52,10 @@ Pour chaque arme, on peut définir un intervalle de dégât auquel on peut super
 
 > _Exemple :_
 >
-> Jiora manie une hache lourde infligeant 3-5 dégâts quand on sait s'en servir.
+> Jiora manie une hache lourde infligeant 1-5 dégâts quand on sait s'en servir.
 > Il est bien entraîné, donc il réussit ses attaques avec un 8 ou plus sur son d20.
-> Si son attaque touche de justesse (entre 8 et 11), il inflige 3 dégâts.
-> Mais quand il tape vraiment fort et bien (entre 16 et 19), il inflige 5 dégâts.
-> Et si en plus il tape là où ça fait mal (20), il peut faire jusqu'à 10 points de dégâts d'un coup.
+> Si son attaque touche de justesse (8), il inflige 1 dégâts.
+> Un geste plus ajusté (entre 9 et 12) en inflige 2.
+> Les bons jours (entre 13 et 16), il en inflige habituellement 3.
+> Quand il tape vraiment bien et fort (entre 17 et 19), il en inflige 4.
+> Et si en plus il tape là où ça fait mal (20), il peut faire jusqu'à 5 points de dégâts d'un coup.

@@ -29,7 +29,9 @@ A few rules of thumbs:
 ### Mastered wielding
 
 The same weapon can be more or less dangerous depending on who wields it.
-Some weapons even require specific training to be used at all (labelled "hard" in the second column).
+Some weapons even require specific training to be used at all.
+
+Suggested wielding difficulty and mastery perks:
 
 | Weapon       | Untrained wielder use                      | Master use                         |
 | ------------ | ------------------------------------------ | ---------------------------------- |
@@ -50,8 +52,10 @@ Each weapon could have a range of damage that can be mapped to the range of favo
 
 > _Example:_
 > 
-> Jiora is wielding a heavy axe that deals 3-5 damages.
+> Jiora is wielding a heavy axe that deals 1-5 damages in skilled hands.
 > He is used to wielding it, so he usually rolls with an 8 or higher on his d20 for his attacks to hit.
-> If he barely hits (between 8 and 11), he deals 3 damage.
-> But when he strikes hard and well (between 16 and 19), he deals 5.
-> And if he hits the weak spot (20), he can do up to 10 points of damage in a single blow.
+> If he barely hits (8), he deals 1 damage.
+> A cleaner swing (between 9 and 12) deals 2.
+> On his good days (between 13 and 16), he usually deals 3.
+> When he strikes hard and well (between 17 and 19), he deals 4.
+> And if on top of that he hits the weak spot (20), he can do up to 5 points of damage in a single blow.
