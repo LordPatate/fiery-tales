@@ -23,7 +23,7 @@ Les chapitres suivants décrivent les règles et les conseils ordonnés par comp
 ## Philosophie générale
 
 Ces règles et systèmes sont au service de l'histoire et de ses narrateurs, autant le MJ que les joueurs.
-Ils constituent un squelette à décorer par du jeu de rôle et du narratif.
+Ils constituent un squelette à décorer en incarnant votre personnage et en racontant votre histoire.
 
 Le système cherche un point d'équilibre entre les qualités suivantes:
 - **simple**: moins il y a de règles, plus elles sont faciles à enseigner et à mémoriser

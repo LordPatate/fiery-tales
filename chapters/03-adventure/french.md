@@ -82,9 +82,9 @@ Selon la difficulté et la longueur désirées de l'épreuve, le MJ peut le conc
 
 Parfait pour une introduction au système de jeu, il permet aussi aux joueurs de prendre en main leurs personnages.
 
-La résolution de cette épreuve devrait exiger de chaque PC de faire ce qu'ils savent faire, à une ou deux reprises.
+La résolution de cette épreuve devrait exiger de chaque PJ de faire ce qu'ils savent faire, à une ou deux reprises.
 
-Typiquement, pour un combat, envoyer un ennemi à chaque PC qui puisse être neutralisé en un coup.
+Typiquement, pour un combat, envoyer un ennemi à chaque PJ qui puisse être neutralisé en un coup.
 
 Les échecs ne devraient mener qu'à de légers contretemps ou encourager la coopération.
 Les joueurs sont censées gagner rapidement.
@@ -95,7 +95,7 @@ Les joueurs sont censées gagner rapidement.
 
 Idéal pour éprouver la créativité des joueurs, cette épreuve consiste en une question ouverte dont la réponse n'est pas évidente.
 
-> 💡 Il ne devrait jamais n'y a voir qu'une seule solution prévue.
+> 💡 Il ne devrait jamais y avoir qu'une seule solution prévue.
 
 Les jets de dés, en revanche, ne sont pas forcément difficiles.
 
