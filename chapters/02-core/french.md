@@ -8,7 +8,11 @@ Vous pourriez aussi vouloir les choisir pour un rythme plus rapide.
 
 ## Création de personnage
 
-Les joueurs devraient essayer de répondre à ces questions pour définir leurs personnages :
+Il est indispensable d'avoir en tête une idée précise de son personnage, que ce soit pour se mettre dans sa peau ou pour que les autres joueurs et le MJ sachent interagir avec lui.
+
+Si c'est la première fois que vous devez vous livrer à cet exercice, il sera plus confortable de choisir un personnage existant que vous aimez, qu'il soit réel ou fictif ; puis de le l'adapter à l'univers choisi, aux règles de jeu et aux autres PJ du groupe.
+
+Pour décrire son personnage auprès des autres joueurs et du MJ, répondez à ces questions :
 - En trois mots, qui /qu'êtes-vous ? *Exemples: le meilleur épéiste, une souris malicieuse, le conseiller du roi...*
 - Pour quoi êtes-vous doués ? *Exemples : se battre, se faufiler, parler...*
 

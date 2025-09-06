@@ -8,7 +8,11 @@ You might also want to choose them if you want a faster pace.
 
 ## Character creation
 
-Players should try to answer these questions to define their characters:
+You must have a precise idea of your character so that you can put yourself in its shoes and that other players and the GM know how to interact with it.
+
+If it is your first time creating one, it will be more comfortable to chose an existing character that you like, either real or fictional; then adapt it to the chosen universe, the game rules and the other PCs of the group.
+
+To describe your character to other players and the GM, answer the following questions:
 - In at most 3 words, who / what are you? *Examples: the greatest swordsman, a witty mouse, the king's advisor...*
 - What are you good at? *Examples: fighting, sneaking, talking...* 
 
