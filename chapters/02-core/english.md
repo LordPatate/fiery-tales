@@ -18,6 +18,7 @@ Depending on the setting, you could add this last one:
 ## Dice rolls and difficulty
 
 Whenever PCs attempt an action for which both failure and success could be interesting (to build up tension, force a more creative approach, conclude the story dramatically...), a dice roll can be requested by the GM.
+Any type of die can be used; the most common one is the cubic 6-faced die (called a d6) but *Dungeons & Dragons* popularized the usage of the 20-faced icosahedron (called a d20).
 
 The GM must first decide on a target difficulty: the minimum result required to succeed the dice roll.
 

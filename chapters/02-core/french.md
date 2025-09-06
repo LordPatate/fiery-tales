@@ -18,6 +18,7 @@ Selon le contexte, vous pourriez en ajouter une dernière :
 ## Jets de dés et difficulté
 
 Chaque fois que les PJs entreprennent une action pour laquelle l'échec ou la réussite seraient tous les deux intéressants (pour augmenter la tension, forcer une approche plus créative, conclure l'histoire de manière dramatique...), un jet de dé peut être exigé par le MJ.
+N'importe quel type de dé peut être utilisé ; le plus commun est le dé cubique à 6 faces (qu'on appelle d6) mais *Donjons & Dragons* a popularisé l'utilisation de l'icosaèdre à 20 faces (appelé d20).
 
 Le MJ doit d'abord décidé d'une difficulté cible : le résultat minimum nécessaire pour réussir le jet.
 
