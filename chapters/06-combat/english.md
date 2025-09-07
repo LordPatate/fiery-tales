@@ -24,6 +24,11 @@ A few rules of thumbs:
 | Elite (e.g. knight)               | 4               |
 | Boss (e.g. Dragon)                | 10-20           |
 
+PCs are not necessarily fighters, since neither the game nor the story have to revolve around combat.
+
+Thus, depending on how good they are in a fight, PCs can start at any level.
+If they get better, they can gain levels; if they get worse (age, injuries, out of practice), they can lose them.
+
 ## Weapons stats
 
 ### Mastered wielding

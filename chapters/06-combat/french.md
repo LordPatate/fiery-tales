@@ -24,6 +24,11 @@ Quelques règles générales:
 | Élite (ex. chevalier)               | 4              |
 | Boss (ex. dragon)                   | 10-20          |
 
+Les PJ ne sont pas nécessairement des combattants, puisque ni le jeu ni l'histoire ne tournent forcément autour du combat.
+
+Ainsi, selon leurs compétences martiales, les PJ peuvent commencer à n'importe quel niveau.
+S'ils s'améliorent, ils peuvent gagner des niveaux ; s'ils s'affaiblissent (âge, blessures, manque de pratique), ils peuvent les perdre.
+
 ## Statistiques d'armes
 
 ### Maîtrise
