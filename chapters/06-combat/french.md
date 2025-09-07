@@ -14,58 +14,33 @@ Gardez cependant à l'esprit que les combats sont rarement supposés être équi
 Quelques règles générales:
 - Le niveau d'un personnage peut indiquer le nombre maximal de coups nécessaires pour l'envoyer au tapis.
 - Le niveau peut représenter la quantité maximale de dégâts que ce personnage peut infliger en un coup.
-- La difficulté cible est réduite pour attaquer un personnage de niveau inférieur ; et inversement.
+- Les personnages de bas niveau ont plus de mal à infliger des dégâts ; ceux de haut niveau y parviennent facilement.
 
-| Archétype de personnage ou créature | Niveau suggéré |
-| ----------------------------------- | -------------- |
-| Civil inoffensif (ex. marchant)     | 1              |
-| Civil costaud (ex. bûcheron)        | 2              |
-| Combattant (ex. soldat)             | 3              |
-| Élite (ex. chevalier)               | 4              |
-| Boss (ex. dragon)                   | 10-20          |
+| Archétype de personnage ou créature | Niveau | Difficulté cible de ses jets d'attaques (d6) |
+| ----------------------------------- | ------ | -------------------------------------------- |
+| Civil inoffensif (ex. marchant)     | 1      | 5                                            |
+| Civil costaud (ex. bûcheron)        | 2      | 4                                            |
+| Combattant (ex. soldat)             | 3      | 3                                            |
+| Élite (ex. chevalier)               | 4      | 2                                            |
+| Boss (ex. dragon)                   | 10-20* | 1                                            |
+
+> (*) Les boss sont censés durer plus longtemps, ils devraient donc être capable de prendre plus de coups ; mais leurs dégâts n'ont pas besoin d'être élevés aux mêmes proportions.
 
 Les PJ ne sont pas nécessairement des combattants, puisque ni le jeu ni l'histoire ne tournent forcément autour du combat.
 
 Ainsi, selon leurs compétences martiales, les PJ peuvent commencer à n'importe quel niveau.
 S'ils s'améliorent, ils peuvent gagner des niveaux ; s'ils s'affaiblissent (âge, blessures, manque de pratique), ils peuvent les perdre.
 
-## Statistiques d'armes
-
-### Maîtrise
-
-Certaines armes peuvent même nécessiter une formation spécifique pour être utilisée.
-
-Suggestions :
-
-| Arme            | Utilisateur non entraîné                          | Maître                       |
-| --------------- | ------------------------------------------------- | ---------------------------- |
-| Dague           | Facile à manier ; courte portée                   | Discrète, précise            |
-| Épée            | Accessible                                        | Escrime avancée              |
-| Arbalète        | Facile à manier ; doit être rechargée chaque tour | Pas de bonus                 |
-| Arc             | Difficile à manier                                | Acrobaties et créativité     |
-| Pistolet        | Facile à manier                                   | Rapide à dégainer et à tirer |
-| Fusil de sniper | Difficile à manier                                | Longue portée et gros dégâts |
-| Sabre laser     | Risque élevé de se blesser soi-même               | Bloque les tirs reçus        |
-
-### Intervalle de dégâts
+## Intervalle de dégâts
 
 Lors d'un jet d'attaque réussi, les dégâts peuvent être dérivés de la "qualité" du jet.
 Plus le jet est réussi, plus les dégâts sont élevés.
 
-Pour chaque arme, on peut définir un intervalle de dégât auquel on peut superposer l'intervalle des résultats favorables d'un jet.
+Par défaut, les attaques infligent 1 dégât.
 
-> _Exemple :_
->
-> Jiora manie une hache lourde infligeant 1-5 dégâts quand on sait s'en servir.
-> Il est bien entraîné, donc il réussit ses attaques avec un 8 ou plus sur son d20.
-> - Si son attaque touche de justesse (8), il inflige 1 dégâts.
-> - Un geste plus ajusté (entre 9 et 12) en inflige 2.
-> - Les bons jours (entre 13 et 16), il en inflige habituellement 3.
-> - Quand il tape vraiment bien et fort (entre 17 et 19), il en inflige 4.
-> - Et si en plus il tape là où ça fait mal (20), il peut faire jusqu'à 5 points de dégâts d'un coup.
+Sur un jet de d6, si vous devez obtenir au moins X pour toucher et que vous obtenez X+Y, vous infligez Y dégâts supplémentaires.
 
-> 💡 La même arme peut être plus ou moins dangereuse selon qui la manie.
-> Un maître aura peut-être un plus haut maximum sur son intervalle de dégât.
+*Exemple : Le personnage de Charlie, Croft, est un bon combattant. Ses attaques touchent avec un 3 ou plus (sur un d6). Charlie obtient 4, donc Croft inflige 2 dégâts (4 = 3+1 donc 1 dégât supplémentaire).*
 
 ## Armure
 
@@ -76,14 +51,7 @@ L'armure réduit les dégâts reçus ou vous rend plus dur à toucher.
 Vous pouvez choisir l'un ou l'autre.
 Ça n'a pas besoin d'être plus compliqué.
 
-> 💡 Avec la règle d'intervalle de dégât décrit plus haut, vous rendre plus dur à toucher est équivalent à réduire les dégâts reçus.
-> De cette manière, la mécanique de l'armure est compatible que vous utilisiez la règle d'intervalle de dégâts ou non.
+> 💡 Avec la règle d'intervalle de dégât décrit plus haut, être plus dur à toucher est équivalent à réduire les dégâts reçus.
 > N'est-ce pas magnifique ?
 
-Suggestion pour une ambiance médiévale :
-
-| Armure      | Augmentation de la difficulté cible / Réduction de dégâts |
-| ----------- | --------------------------------------------------------- |
-| Cuir léger  | 1                                                         |
-| Métal léger | 2                                                         |
-| Métal lourd | 3                                                         |
+Plus l'armure est lourde, mieux on est protégé, mais plus il est difficile de bouger.

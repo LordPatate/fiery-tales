@@ -12,61 +12,35 @@ A fight will be balanced if the opposing forces are of equal cumulated levels.
 Remember, though, that fights are rarely supposed to be even.
 
 A few rules of thumbs:
-- The level can represent the maximum number of hit needed to put that character down.
+- The level can represent the maximum number of hits needed to put that character down.
 - The level can represent the maximum amount of damage this character can deal in one blow.
-- When attacking a character of lower level, the target difficulty of the attack roll is lower; and vice-versa.
+- Dealing damage is harder for low-level characters and easier for high-level characters
 
-| Character or creature archetype   | Suggested level |
-| --------------------------------- | --------------- |
-| Harmless civilian (e.g. merchant) | 1               |
-| Tough civilian (e.g. lumberjack)  | 2               |
-| Fighter (e.g. soldier)            | 3               |
-| Elite (e.g. knight)               | 4               |
-| Boss (e.g. Dragon)                | 10-20           |
+| Character or creature archetype   | Level | Target difficulty of its attack rolls (d6) |
+| --------------------------------- | ----- | ------------------------------------------ |
+| Harmless civilian (e.g. merchant) | 1     | 5                                          |
+| Tough civilian (e.g. lumberjack)  | 2     | 4                                          |
+| Fighter (e.g. soldier)            | 3     | 3                                          |
+| Elite (e.g. knight)               | 4     | 2                                          |
+| Boss (e.g. Dragon)                | 10-20* | 1
+
+> (*) Bosses are meant to last longer, so they should be able to take a lot more hits; but they do not have to deal proportionally high damage.
 
 PCs are not necessarily fighters, since neither the game nor the story have to revolve around combat.
 
 Thus, depending on how good they are in a fight, PCs can start at any level.
 If they get better, they can gain levels; if they get worse (age, injuries, out of practice), they can lose them.
 
-## Weapons stats
-
-### Mastered wielding
-
-Some weapons might require specific training to be used efficiently.
-For others, mastering its wielding could unlock its full potential.
-
-Suggested wielding difficulty and mastery perks:
-
-| Weapon       | Untrained wielder                             | Master wielder               |
-| ------------ | --------------------------------------------- | ---------------------------- |
-| Dagger       | Easy to use; short range                      | Discrete, precise            |
-| Sword        | Hard to use                                   | Fencing techniques           |
-| Crossbow     | Easy to use; needs to be recharged every turn | No bonus                     |
-| Bow          | Hard to use                                   | Acrobatics and trick shots   |
-| Hand gun     | Easy to use                                   | Quick draw and rapid fire    |
-| Sniper rifle | Hard to use                                   | Longer range and high damage |
-| Light saber  | High risk of self-injury                      | Blocks incoming fire         |
-
-### Damage range
+## Damage
 
 On a successful attack roll, the damage can be derived from the "quality" of the attack roll.
 The better the success, the higher the damage.
 
-Each weapon could have a range of damage that can be mapped to the range of favorable roll results.
+By default, attacks deal 1 damage.
 
-> _Example:_
-> 
-> Jiora is wielding a heavy axe that deals 1-5 damages in skilled hands.
-> He is used to wielding it, so he usually rolls with an 8 or higher on his d20 for his attacks to hit.
-> - If he barely hits (8), he deals 1 damage.
-> - A cleaner swing (between 9 and 12) deals 2.
-> - On his good days (between 13 and 16), he usually deals 3.
-> - When he strikes hard and well (between 17 and 19), he deals 4.
-> - And if on top of that he hits the weak spot (20), he can do up to 5 points of damage in a single blow.
+On a d6, if you need to roll at least X to hit and that you rolled X+Y, you deal Y extra damage.
 
-> 💡 The same weapon can be more or less dangerous depending on who wields it.
-> A master wielder might have a higher maximum on his damage range.
+*Example: Charlie's character, Croft, is a good fighter. His attacks hit on a 3 or higher (using a d6). Charlie rolls a 4, so Croft deals 2 damage (4 = 3+1 so 1 extra damage).*
 
 ## Armor
 
@@ -77,14 +51,7 @@ Armor reduces incoming damage or makes you harder to hit.
 You can chose either.
 It does not need to be more complicated.
 
-> 💡 With the damage range rule described above, making you harder to hit is equivalent to reducing the damage received.
-> This way, the armor mechanic is compatible whether you are using the damage range rule or not.
+> 💡 With the damage rule described above, making you harder to hit is equivalent to reducing the damage received.
 > Is it not beautiful?
 
-Suggestion for a medieval setting:
-
-| Armor         | Target difficulty increase / Damage reduction |
-| ------------- | --------------------------------------------- |
-| Light leather | 1                                             |
-| Light metal   | 2                                             |
-| Heavy metal   | 3                                             |
+The heavier the armor, the greater the protection, but the harder it is to move around.
