@@ -2,6 +2,9 @@
 
 Pour ceux qui aiment quand c'est compliqué. Ces outils servent à enrichir ou faciliter la conception de combats pour le MJ.
 
+> 💡 Bien que pensés pour le combat, ces règles peuvent être utilisés dans n'importe quel domaine.
+> Une rap battle entre deux personnages peut être arbitrée par des niveaux de rap, des dégâts d'humiliation et une armure d'estime de soi.
+
 ## Niveaux
 
 Tous les personnages et créatures peuvent se faire attribuer un *niveau*.

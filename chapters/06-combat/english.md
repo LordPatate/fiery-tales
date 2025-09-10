@@ -2,6 +2,9 @@
 
 For those who like it complicated. These tools are meant to enrich or ease combat design for the GM.
 
+> 💡 Although this rules were designed for combat, they can be used in any field.
+> A rap battle between two characters can be refereed by rap levels, humiliation damage and self-esteem armor.
+
 ## Levels
 
 All characters and creatures can be given a *level*.
