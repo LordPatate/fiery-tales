@@ -58,3 +58,5 @@ It does not need to be more complicated.
 > Is it not beautiful?
 
 The heavier the armor, the greater the protection, but the harder it is to move around.
+
+## Next: [additional gameplay mechanics](/chapters/06-mechanics/english.md)

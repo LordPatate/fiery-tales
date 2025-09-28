@@ -12,5 +12,5 @@ Chapters 3, 5 and 6 are addressed to game masters.
 2. [Core rules](/chapters/02-core/english.md)
 3. [[GM] Designing an aventure](/chapters/03-adventure/english.md)
 4. [Advanced character creation](/chapters/04-characters/english.md)
-5. [[GM] Additional gameplay mechanics](/chapters/05-mechanics/english.md)
-6. [[GM] Advanced combat](/chapters/06-combat/english.md)
+5. [[GM] Advanced combat](/chapters/05-combat/english.md)
+6. [[GM] Additional gameplay mechanics](/chapters/06-mechanics/english.md)

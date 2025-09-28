@@ -32,4 +32,4 @@ C'est à la fois un moyen de s'identifier à votre personnage et une opportunit�
 
 *Exemples : cupide, à sang chaud, laid, manchot, maladroit, timide, aveugle*
 
-## Suivant : [mécaniques de jeu additionnelles](/chapters/05-mechanics/french.md)
+## Suivant : [combat avancé](/chapters/05-combat/french.md)

@@ -26,5 +26,3 @@ You want to give it all you've got in one big, glorious move?
 
 This is called an *effort*. It gives a one-time huge bonus to your dice roll.
 This effort is costly and will fatigue you though, making any future task harder until you rest.
-
-## Next: [advanced combat](/chapters/06-combat/english.md)

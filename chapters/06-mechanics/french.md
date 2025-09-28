@@ -26,5 +26,3 @@ Vous voulez tout donner dans un grand, glorieux coup?
 
 On appelle ça un *effort*. Il vous accorde un énorme bonus sur votre jet, une seule fois.
 Cependant, cet effort vous coûte beaucoup et vous épuisera, augmentant la difficulté de toutes les prochaines tâches tant que vous n'aurez pas récupéré.
-
-## Suivant : [combat avancé](/chapters/06-combat/french.md)

@@ -58,3 +58,5 @@ Vous pouvez choisir l'un ou l'autre.
 > N'est-ce pas magnifique ?
 
 Plus l'armure est lourde, mieux on est protégé, mais plus il est difficile de bouger.
+
+## Suivant : [mécaniques de jeu additionnelles](/chapters/06-mechanics/french.md)

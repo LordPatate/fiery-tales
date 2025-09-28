@@ -32,4 +32,4 @@ It can also be useful for the GM in order to challenge your character specifical
 
 *Examples: greedy, hot-blooded, ugly, one-armed, clumsy, shy, blind*
 
-## Next: [additional gameplay mechanics](/chapters/05-mechanics/english.md)
+## Next: [advanced combat](/chapters/05-combat/english.md)
